@@ -8,4 +8,4 @@
 
 ## Использование
 1. Установить требования (`py -3 -m pip install -r requirements.txt`)
-2. Запустить 'calculator.py'
+2. Запустить `calculator.py`
